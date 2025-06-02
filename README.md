@@ -1,1 +1,1 @@
-# JavaScript_treino
+# Práticas 
