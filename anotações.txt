@@ -1,0 +1,9 @@
+1 - npm install -g http-server
+- Para instalar o 'http-server'
+
+2 - CTRL + F5 = Para carregar o HTML sem cache ("Atualiza a página")
+
+3 
+HTML - Conteúdo
+CSS - Estilo
+JAVASCRIPT - Interatividade
