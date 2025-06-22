@@ -13,3 +13,5 @@ JAVASCRIPT - Interatividade
 5 - &lt; e &gt;  -  LESS THAN / GREATER THAN   (Menor que / Maior que)
 
 6 - <li> </li> - Listas
+
+7 - Favcon - <link rel="shotcut icon" href="" type="image/x-icon">
