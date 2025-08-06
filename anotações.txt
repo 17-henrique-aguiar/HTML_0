@@ -14,4 +14,4 @@ JAVASCRIPT - Interatividade
 
 6 - <li> </li> - Listas
 
-7 - Favcon - <link rel="shotcut icon" href="" type="image/x-icon">
+7 - Para Favcon (Imagem que fica lá em cima na aba do navegador) - <link rel="shotcut icon" href="" type="image/x-icon"> 
