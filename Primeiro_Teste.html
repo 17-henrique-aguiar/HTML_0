@@ -6,6 +6,7 @@
         <meta nome="viewpoint" content="width-device-width, initial-scale=1.0">
         <link rel="shotcut icon" href="HTML_LOGO.ico" type="image/x-icon">
         <title>Meu primeiro HTML</title>
+    </head>
     <body>
 
         <h1> Dante DMC3 </h1>
@@ -13,7 +14,32 @@
         <img src="https://static.wikia.nocookie.net/factvsfiction/images/c/cf/Dante_DMC3.jpg/revision/latest?cb=20180116225647" alt="Dante_DMC3" width = "720" heigth="680">
     
     <h2>Quinto teste</h2>
-    <p><a href="Quinto_Teste.html" rel="prev">Voltar</a></p>
+    <p><a href="Quinto_Teste.html" rel="prev" class="botao-quadrado">Voltar</a></p>
 
     </body>
+<style>
+    body {
+        background-color: black;
+        color: white;
+    }
+     .botao-quadrado {
+        display: inline-block;
+        padding: 8px 16px;        /*Diminuir tamanho do 1a01fa*/
+        background-color: #1a01fa;
+        color: #222;
+        text-decoration: none;
+        border-radius: 8px;
+        border: 2px solid #fff;
+        font-weight: bold;
+        font-size: 18px;
+        transition: background 0.3s, color 0.3s;
+        box-shadow: 2px 2px 8px #222;
+        text-align: center;
+    }
+    .botao-quadrado:hover {
+        background-color: #fff;
+        color: #1a01fa;
+        border-color: #1a01fa;
+    }
+</style>
 </html>

@@ -37,12 +37,27 @@
         <p> Texto sobrescrito: x<sup>10</sup>+5 </p> 
         <p > Texto subscrito: H<sub>2</sub>O </p>
 
-    <p><a href="Quinto_Teste.html" rel="prev">Voltar</a></p>
+    <p><a href="Quinto_Teste.html" rel="prev" class="botao-quadrado>Voltar</a></p>
     </body>
     <style>
       body {
         background-color: black;
         color: white;
       }
+        .botao-quadrado {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: white;
+            background-color: blue;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 0; /* Bordas quadradas */
+        }
+        .botao-quadrado:hover {
+            background-color: #fff;
+            color:  #1a01fa;
+            border-color: #1a01fa;
+        }
     </style>
 </html>
